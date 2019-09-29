@@ -1,7 +1,7 @@
 # Bayesian-Classifier
 Implements Bayes classifier using Unimodel Gaussian Distribution as the density function
 
-
+# Details
 There are three folder LS(Linearly Seperable) , NLS(Non Linearly Seperable) , RD(Real World Data). Each folder has 4 python files for 4 below listed cases and corresponding classification image.
 
 	(1) Covariance matrix for all the classes is the same and is σ 2 I
